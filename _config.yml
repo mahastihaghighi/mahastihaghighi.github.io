@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: mahasti
 header-img: img/home-bg.png
 email: mahasti110@yahoo.com
 copyright_name: mahastihaghighi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  main
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mahastihaghighi
